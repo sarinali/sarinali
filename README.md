@@ -46,5 +46,3 @@ I am:
 Thanks for stopping by :)
 
 If you want to check out more of my work and personal life, see my [personal website](https://www.sarinali.me/)! 😺
-
-![This is an alt text.](https://pbs.twimg.com/media/F7NpYjTWoAAHkzD?format=jpg&name=large)
