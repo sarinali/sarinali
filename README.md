@@ -1,6 +1,6 @@
 # Sarina Li!!
 
-Thanks for visiting me! I'm Sarina, CS student @ UofT, I strive to build software for connecting the world!
+Thanks for visiting me! I'm Sarina, let’s build cool stuff together! :^ )
 
 ![](https://komarev.com/ghpvc/?username=sarinali)
 
