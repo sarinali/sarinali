@@ -7,9 +7,9 @@ Thanks for visiting me! I'm Sarina, CS student @ UofT, I strive to build softwar
 ## My Favourite Tech... as of rn 🤲
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
-[![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#)\
-[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white&style=plastic)](#)
+[![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff&style=plastic)](#)\
+[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=plastic)](#)
 
 
 ## Social Media!
