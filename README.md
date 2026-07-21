@@ -4,14 +4,6 @@ Thanks for visiting me! I'm Sarina, let’s build cool stuff together! :^ )
 
 ![](https://komarev.com/ghpvc/?username=sarinali)
 
-## My Favourite Tech... as of rn 🤲
-
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)](#)
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white&style=flat-square)](#)
-[![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff&style=flat-square)](#)
-[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=flat-square)](#)
-
-
 ## Social Media!
 
 <a href="https://www.linkedin.com/in/sarinali/" target="_blank">
@@ -23,4 +15,4 @@ Thanks for visiting me! I'm Sarina, let’s build cool stuff together! :^ )
 
 or...
 
-Find me @ https://www.sarinali.space/ and previously https://www.sarinali.me/ !
+Find me @ https://www.sarinali.com/ !
